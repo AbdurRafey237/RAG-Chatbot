@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-  <img src="images/architecture.png" width="520" alt="RAG architecture" />
+  <img src="images/chatbot_architecture.png" width="520" alt="RAG architecture" />
   <p><sub><b>How it works</b> — your question is rewritten into a standalone query, matched against your documents, and answered using only the retrieved passages.</sub></p>
 </div>
 
