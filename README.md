@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Live App](https://img.shields.io/badge/🚀_Live_App-Open-4FD1C5?style=for-the-badge&labelColor=0E1A24)](REPLACE_WITH_YOUR_STREAMLIT_URL)
+[![Live App](https://img.shields.io/badge/🚀_Live_App-Open-4FD1C5?style=for-the-badge&labelColor=0E1A24)](https://rag-chatbot-abdurrafey.streamlit.app/)
 &nbsp;
-[![Demo Video](https://img.shields.io/badge/🎬_Demo-Watch-F2B65A?style=for-the-badge&labelColor=0E1A24)](REPLACE_WITH_YOUR_DEMO_LINK)
+[![Demo Video](https://img.shields.io/badge/🎬_Demo-Watch-F2B65A?style=for-the-badge&labelColor=0E1A24)](https://drive.google.com/file/d/1FDlYvR1wR2rPxMwolOXkWvMgwvwCQ7Hk/view?usp=sharing)
 &nbsp;
 [![Report Bug](https://img.shields.io/badge/🐛_Report-Bug-e74c3c?style=for-the-badge&labelColor=0E1A24)](https://github.com/AbdurRafey237/RAG-Chatbot/issues)
 
